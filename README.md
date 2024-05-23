@@ -101,3 +101,4 @@ Hi! Thank you for taking the time to read through this tutorial!
 My name is Isa Zafeer and I currently participate in a Coding Bootcamp, which will hopefully allow me to begin my career as a Full Stack Developer. When I'm not focusing on coding for homework or personal projects, I spend my time flying drones (I have a license) and 100% completing games. I'm a little bit of a... trophy hunter ;)
 
 [Link to Github](https://github.com/isazafeer)
+[Link to Gist](https://gist.github.com/isazafeer/2d2e3257a10f6356621dc997ac6599fe)
